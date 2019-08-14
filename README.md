@@ -2,4 +2,4 @@
 tinkering with bootstrap and django
 
 
-I have started
+I have started.
