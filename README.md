@@ -2,4 +2,4 @@
 tinkering with bootstrap and django
 
 
-I have started. By learning from courses and looking at working code.
+I have started. By learning from courses and looking at working code .
